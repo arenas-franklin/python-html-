@@ -11,4 +11,11 @@ A prender os conceitos de desenvolviemnto de python e html com o framework Flask
 Framework Flask - 
 
 
-## comando utilizados
+## bibliotecas instaladas 
+
+flask 
+
+python-dotenv
+
+
+
